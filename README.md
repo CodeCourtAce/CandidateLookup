@@ -26,13 +26,15 @@ My **Candidate Search Tool** is a web application that allows users to search fo
    git clone <https://github.com/CodeCourtAce/CandidateFinder.git>
 
    Run in the terminal npm run dev to open in local host.
+   Just an fyi my site takes a few minutes to load the main page sometimes its immediatly and sometimes its 25 minutes 😅
+
    
 
 # Github Repo Link 
 https://github.com/CodeCourtAce/CandidateFinder.git
 
 # Render Link
-
+https://candidatelookup.onrender.com
 
 
 
