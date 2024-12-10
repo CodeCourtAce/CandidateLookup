@@ -33,8 +33,8 @@ My **Candidate Search Tool** is a web application that allows users to search fo
 # Github Repo Link 
 https://github.com/CodeCourtAce/CandidateFinder.git
 
-# Render Link
-https://candidatelookup.onrender.com
+# Netlify Link
+https://candidatelookup2.netlify.app/
 
 
 
